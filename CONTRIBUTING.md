@@ -59,11 +59,13 @@ There are some VS Code extensions that will be very handy for completing this pr
 
 ### Browser Dev Tools
 
-content to be added
+_content to be added_
 
 ### Obsidian
 
 Obsidian docs and help are online here: [https://help.obsidian.md/Home](https://help.obsidian.md/Home)
+
+_Instructions on how to make sure you're initializing the correct folder as your project vault and markdown 101 to be added._
 
 ---
 ## Branches
@@ -112,7 +114,7 @@ All PRs are merged into the dev branch. At least twice a week the dev branch is 
 
 ### Your First PR
 
-Your first PR will be to follow the instructions in the issue assigned to you. You will have to copy a block of text from Alice's Adventures in Wonderland on Gutenberg.org and paste them properly formatted into your cloned copy of Book-Alices-Adventures-in-Wonderland.md in Obsidian on your computer.
+Your first PR will be to follow the instructions in the issue assigned to you. You will have to copy a block of text from [Alice's Adventures in Wonderland](https://gutenberg.org/cache/epub/11/pg11-images.html) on Gutenberg.org and paste them properly formatted into your cloned copy of Book-Alices-Adventures-in-Wonderland.md in Obsidian on your computer.
 
 We do this because:
 1. It's a low stakes way of getting new devs used to: 
